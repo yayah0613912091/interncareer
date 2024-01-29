@@ -1,0 +1,7 @@
+echo "# interncareer" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/yayah0613912091/interncareer.git
+git push -u origin main 
